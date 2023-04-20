@@ -83,4 +83,4 @@ Web接口和一些额外的强大功能
 > 您还应该提供关于这个词汇意义随时间变化的信息，如果适用的话。我的第一个请求是“比萨饼”。
 
 # 感谢
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 本文部分内容翻译自此
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
