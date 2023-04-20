@@ -13,9 +13,11 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 ### 使用 ChatGPT 桌面应用
 这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT提示语,使用这个应用,用斜杠"/"命令你就可以很容易的导入你所想要的提示语,例如`/linux_terminal`,这个功能让你在使用提示语的时候不需要手动的复制粘贴.
 
-** ChatGPT桌面应用是非官方由[@lencx 开源的项目](https://github.com/lencx/ChatGPT),它非常简单的包装了ChatGPT Web接口和一些额外的强大功能
+**ChatGPT桌面应用是非官方由[@lencx 开源的项目](https://github.com/lencx/ChatGPT)**,它非常简单的包装了ChatGPT Web接口和一些额外的强大功能
+
+![chatGPT](img\chatGPT.png)
 
 
-# 开启魔法之路
+# 开启ChatGPT魔法之路
 
 ## 充当Linux终端的角色
