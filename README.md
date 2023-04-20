@@ -10,16 +10,22 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 可以按照README里面的提示语来和ChatGPT进行对话吧，希望这些提示语能对你有用,并享受使用ChatGPT
 
-### 使用 ChatGPT 桌面应用
-这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT提示语,使用这个应用,用斜杠"/"命令你就可以很容易的导入你所想要的提示语,例如`/linux_terminal`,这个功能让你在使用提示语的时候不需要手动的复制粘贴.
+### 使用AI生成的图片
 
-这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT提示语,使用这个应用,用斜杠"/"
-命令你就可以很容易的导入你所想要的提示语,例如`/linux_terminal`,这个功能让你在使用提示语的时候不需要手动的复制粘贴.
+![](https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420122343.png)
+
+### 使用 ChatGPT 桌面应用
+这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT提示语,使用这个应用,用斜杠"/"命令你就可以很容易的导入你所想要的提示语,
+例如`/linux_terminal`,这个功能让你在使用提示语的时候不需要手动的复制粘贴.
+
 
 **ChatGPT桌面应用是非官方由[@lencx 开源的项目](https://github.com/lencx/ChatGPT)**,它非常简单的包装了ChatGPT
 Web接口和一些额外的强大功能
 
 ![](https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/chatGPT.png)
+
+# 加入星球
+
 
 # 开启ChatGPT魔法之路
 
@@ -69,6 +75,11 @@ Web接口和一些额外的强大功能
 > 作为一个提示优化员，您的任务是将初始提示进行优化，以满足ChatGPT的标准。您的回答应该清晰、简洁和具体，提供生成高质量响应的指导方针，这些响应应该是相关和创意的。
 > 您的优化应该侧重于改进原始提示的结构和清晰度，同时保留任何必要的细节或要求。您还应该旨在在保持准确性和相关性的同时鼓励灵活性和创造力。
 > 请注意，您优化后的提示应该足够独特，以鼓励语言模型生成创新和原创的响应。
+
+## ✂️扮演词源学家的角色
+
+> 我希望您能扮演一名词源学家，我将给您一个词汇，您需要研究这个词汇的起源，追溯到其古老的根源。
+> 您还应该提供关于这个词汇意义随时间变化的信息，如果适用的话。我的第一个请求是“比萨饼”。
 
 # 感谢
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 本文部分内容翻译自此
