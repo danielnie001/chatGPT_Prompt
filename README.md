@@ -15,7 +15,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 **ChatGPT桌面应用是非官方由[@lencx 开源的项目](https://github.com/lencx/ChatGPT)**,它非常简单的包装了ChatGPT Web接口和一些额外的强大功能
 
-![chatGPT](img\chatGPT.png)
+![chatGPT](\img\chatGPT.png)
 
 
 # 开启ChatGPT魔法之路
