@@ -12,8 +12,10 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 ### 使用AI生成的图片，来源于Midjourney
 
-<img width="400" alt="Screenshot 2023-04-20 at 12 48 41" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
-
+<div align="center">
+    <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
+    <p>由Midjourney AI生成的图片</p>
+</div>
 
 ### 使用 ChatGPT 桌面应用
 这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT提示语,使用这个应用,用斜杠"/"命令你就可以很容易的导入你所想要的提示语,
