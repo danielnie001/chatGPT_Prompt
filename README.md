@@ -10,7 +10,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 可以按照README里面的提示语来和ChatGPT进行对话吧，希望这些提示语能对你有用,并享受使用ChatGPT
 
-### 使用AI生成的图片
+### 使用AI生成的图片，来源于Midjourney
 
 ![](https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420122343.png)
 
