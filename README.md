@@ -26,7 +26,7 @@ Web接口和一些额外的强大功能
 ![](https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/chatGPT.png)
 
 # 加入星球
-
+<img width="400" align="center" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/48884814121188T1.jpg" alt="星球图片 2023-04-20">
 
 # 开启ChatGPT魔法之路
 
