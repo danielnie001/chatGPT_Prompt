@@ -1,12 +1,14 @@
 # 🧠 非常棒的 ChatGPT深度学习指南
 
-- [**香港版Prompts**](<Prompts-hk.md>)
-- [**台湾版Prompts**](<Prompts-tw.md>)
-- [**日语版Prompts**](<Prompts-jp.md>)
-- [**韩语版Prompts**](<Prompts-kr.md>)
-- [**俄语版Prompts**](<Prompts-ru.md>)
-- [**法语版Prompts**](<Prompts-fr.md>)
-- [**德语版Prompts**](<Prompts-de.md>)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
+
+
+- [**繁体版Prompts**](<Prompts-hk.md>)
+- [**日本語プロンプト**](<Prompts-jp.md>)
+- [**한국어 프롬프트**](<Prompts-kr.md>)
+- [**Подсказки на русском языке**](<Prompts-ru.md>)
+- [**Invites en français**](<Prompts-fr.md>)
+- [**Aufforderungen auf Deutsch**](<Prompts-de.md>)
 
 欢迎来到 ChatGPT中文深度学习指南，这里收集了一系列有关ChatGPT模型提示，使用这些提示，可以生成相对更加精确的回答
 
