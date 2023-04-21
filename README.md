@@ -16,6 +16,8 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 在这里,你可以找到各种各样的提示语用来和ChatGPT对话,当然我们也非常欢迎你添加你自己的提示语到我们的列表里来，ChatGPT生成的提示语也一样
 
+[点击这里](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/README.md) 可以将您自己的提示指南添加到列表中。
+
 可以按照README里面的提示语来和ChatGPT进行对话吧，希望这些提示语能对你有用,并享受使用ChatGPT
 
 ### 使用AI生成的图片，来源于Midjourney
