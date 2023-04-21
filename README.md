@@ -16,6 +16,8 @@
 - [**Awesome Promptus in Latin**](<Prompts-lt.md>)
 - [**Geweldige Prompts in het Nederlands**](<Prompts-nl.md>)
 - [**موجهات رهيبة باللغة العربية**](<Prompts-sa.md>)
+- [**Moltaí Móra as Gaeilge**](<Prompts-ie.md>)
+- [**درخواست های عالی به زبان فارسی**](<Prompts-ir.md>)
 
 欢迎来到 ChatGPT中文深度学习指南，这里收集了一系列有关ChatGPT模型提示，使用这些提示，可以生成相对更加精确的回答
 
@@ -31,7 +33,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言�
 
 ### 使用AI生成的图片，来源于Midjourney
 
-<div align="center">
+<div style="text-align: center">
     <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
     <p>由Midjourney AI生成的图片</p>
 </div>
