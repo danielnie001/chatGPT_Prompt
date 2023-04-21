@@ -4,11 +4,17 @@
 
 
 - [**繁体版Prompts**](<Prompts-hk.md>)
-- [**日本語プロンプト**](<Prompts-jp.md>)
-- [**한국어 프롬프트**](<Prompts-kr.md>)
-- [**Подсказки на русском языке**](<Prompts-ru.md>)
-- [**Invites en français**](<Prompts-fr.md>)
-- [**Aufforderungen auf Deutsch**](<Prompts-de.md>)
+- [**日本語で素晴らしいプロンプト**](<Prompts-jp.md>)
+- [**멋진 한국어 프롬프트**](<Prompts-kr.md>)
+- [**Удивительные подсказки на русском языке**](<Prompts-ru.md>)
+- [**Invites impressionnantes en français**](<Prompts-fr.md>)
+- [**Tolle Ansagen auf Deutsch**](<Prompts-de.md>)
+- [**Świetna polska wersja Prompts**](<Prompts-pl.md>)
+- [**Eccellenti suggerimenti in italiano**](<Prompts-it.md>)
+- [**คำแนะนำที่ยอดเยี่ยมในภาษาไทย**](<Prompts-th.md>)
+- [**Indicaciones impresionantes en español**](<Prompts-es.md>)
+- [**Awesome Promptus in Latin**](<Prompts-lt.md>)
+- [**Geweldige Prompts in het Nederlands**](<Prompts-nl.md>)
 
 欢迎来到 ChatGPT中文深度学习指南，这里收集了一系列有关ChatGPT模型提示，使用这些提示，可以生成相对更加精确的回答
 
