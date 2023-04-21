@@ -1,6 +1,6 @@
 # 🧠 非常棒的 ChatGPT深度学习指南
 
-- [香港版Prompts](<Prompts-hk.md>)
+- [**香港版Prompts**](<Prompts-hk.md>)
 
 欢迎来到 ChatGPT中文深度学习指南，这里收集了一系列有关ChatGPT模型提示，使用这些提示，可以生成相对更加精确的回答
 
