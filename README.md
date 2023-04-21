@@ -15,7 +15,7 @@
 - [**Indicaciones impresionantes en español**](<Prompts-es.md>)
 - [**Awesome Promptus in Latin**](<Prompts-lt.md>)
 - [**Geweldige Prompts in het Nederlands**](<Prompts-nl.md>)
-- [**موجهات رهيبة باللغة العربية**](<Prompts-nl.md>)
+- [**موجهات رهيبة باللغة العربية**](<Prompts-sa.md>)
 
 欢迎来到 ChatGPT中文深度学习指南，这里收集了一系列有关ChatGPT模型提示，使用这些提示，可以生成相对更加精确的回答
 
