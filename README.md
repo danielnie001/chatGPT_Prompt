@@ -25,7 +25,7 @@
 
 **ChatGPT**是由[OpenAI](https://openai.com/)训练出来的一个LLM（大语言模型），可以和人类进行对话并生成人们所需要的东西，通过使用这些训练语,可以根据上下文持续对话并且还可以扩展给定的训练语。
 
-在这里,你可以找到各种各样的训练语用来和ChatGPT对话,当然我们也非常欢迎你添加你自己的训练语到我们的列表里来，ChatGPT生成的训练语也一样
+在这里,你可以找到各种各样的训练语用来和ChatGPT对话,当然我们也非常欢迎你添加你自己的训练语到我们的列表里来，ChatGPT生成的训练语也一样,列表如下：
 
 - [**增加到中文简体**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/README.md)
 - [**增加到中文繁体**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-hk.md)
