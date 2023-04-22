@@ -55,7 +55,8 @@
 <div style="text-align: center">
     <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
     <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/mjuarez_87_fractal_crusader_3014f804-0545-4e6f-9e4a-1fd463314d1a.png">
-    <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422172028.png">
+    <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422172028.png">
+    <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422173006.png">
     <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
 </div>
 
