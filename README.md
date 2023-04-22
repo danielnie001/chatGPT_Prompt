@@ -19,7 +19,7 @@
 - [**Treoir Oiliúna ChatGPT don Ghaeilge**](<Prompts-ie.md>)
 - [**Dansk version ChatGPT træningsguide**](<Prompts-dk.md>)
 
-欢迎来到 ChatGPT **深度训练**中文学习指南，这里收集了一系列有关ChatGPT模型训练，使用这些训练，可以生成相对更加精确的回答
+欢迎来到 ChatGPT **深度训练**中文学习指南，这里收集了一系列有关ChatGPT模型训练语，使用这些训练语，可以使得ChatGPT生成相对更加精准的回答.
 
 **什么是ChatGPT?**
 
@@ -27,7 +27,22 @@
 
 在这里,你可以找到各种各样的训练语用来和ChatGPT对话,当然我们也非常欢迎你添加你自己的训练语到我们的列表里来，ChatGPT生成的训练语也一样
 
-[**添加到列表**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/README.md) 可以将您自己的训练指南添加到列表中。
+- [**增加到中文简体**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/README.md)
+- [**增加到中文繁体**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-hk.md)
+- [**增加到日语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-jp.md)
+- [**增加到韩语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-kr.md)
+- [**增加到俄语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-ru.md)
+- [**增加到法语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-fr.md)
+- [**增加到德语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-de.md)
+- [**增加到波兰语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-pl.md)
+- [**增加到意大利语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-it.md)
+- [**增加到泰语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-th.md)
+- [**增加到西班牙语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-es.md)
+- [**增加到拉丁语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-lt.md)
+- [**增加到荷兰语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-nl.md)
+- [**增加到阿拉伯语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-sa.md)
+- [**增加到爱尔兰语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-ie.md)
+- [**增加到丹麦语版本**](https://github.com/danielnie001/awesome-chatgpt-prompts-all/edit/main/Prompts-dk.md)
 
 可以按照README里面的训练语来和ChatGPT进行对话吧，希望这些训练语能对你有用,并享受使用ChatGPT
 
