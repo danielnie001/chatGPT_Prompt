@@ -46,6 +46,11 @@
 
 可以按照README里面的训练语来和ChatGPT进行对话吧，希望这些训练语能对你有用,并享受使用ChatGPT
 
+## 免责声明
+
+- 本页面部分内容来自于网络，如有侵权，请联系删除
+- 使用本软件所存在的风险将完全由其本人承担，作者不承担任何责任。
+
 ### 使用AI生成的图片，来源于Midjourney
 <div style="text-align: center">
     <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
@@ -465,4 +470,14 @@ Web接口和一些额外的强大功能
 
 [🔼**回到顶部**](#-非常棒的-chatgpt深度学习指南)
 # 感谢
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 部分内容翻译于此。
+
+# 贡献者
+
+<a href="https://github.com/danielnie001/awesome-chatgpt-prompts-zh_cn/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=danielnie001/awesome-chatgpt-prompts-zh_cn" />
+</a>
+
+# 驾照
+
+CC-0
