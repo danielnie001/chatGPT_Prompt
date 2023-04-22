@@ -52,28 +52,28 @@
 - 使用本软件所存在的风险将完全由其本人承担，作者不承担任何责任。
 
 ### 使用AI生成的图片，来源于Midjourney
-
-<div style="text-align: center">
-    <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
-    <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+<div align="center">
+    <div style="text-align: center">
+        <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230420123138.png">
+        <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+    </div>
+    <div style="text-align: center">
+        <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/mjuarez_87_fractal_crusader_3014f804-0545-4e6f-9e4a-1fd463314d1a.png">
+        <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+    </div>
+    <div style="text-align: center">
+        <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422172028.png">
+        <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+    </div>
+    <div style="text-align: center">
+        <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422173006.png">
+        <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+    </div>
+    <div style="text-align: center">
+        <img width="400" alt="cute girl kitten hugs the earth-toy, pixar style, shining background --ar 3:4" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422173526.png">
+        <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
+    </div>
 </div>
-<div style="text-align: center">
-    <img width="400" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/mjuarez_87_fractal_crusader_3014f804-0545-4e6f-9e4a-1fd463314d1a.png">
-    <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
-</div>
-<div style="text-align: center">
-    <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422172028.png">
-    <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
-</div>
-<div style="text-align: center">
-    <img width="400" alt="a Chinese beauty with eye glasses. --v 5" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422173006.png">
-    <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
-</div>
-<div style="text-align: center">
-    <img width="400" alt="cute girl kitten hugs the earth-toy, pixar style, shining background --ar 3:4" src="https://typora-picc.oss-cn-hangzhou.aliyuncs.com/picgo/20230422173526.png">
-    <p>由Midjourney AI生成的图片,来源于网络，如有侵权，请联系删除</p>
-</div>
-
 ### 使用 ChatGPT 桌面应用
 这个非官方的ChatGPT桌面应用提供了非常便捷的方式来使用ChatGPT和ChatGPT训练语,使用这个应用,用斜杠"/"命令你就可以很容易的导入你所想要的训练语,
 例如`/linux_terminal`,这个功能让你在使用训练语的时候不需要手动的复制粘贴.
