@@ -704,7 +704,7 @@ Web接口和一些额外的强大功能
 
 
 
-[🔼**回到顶部**](#-非常棒的-chatgpt深度学习指南)
+[🔼**回到顶部**](#-非常棒的-chatgpt-深度训练指南)
 # 感谢
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 部分内容翻译于此。
 
